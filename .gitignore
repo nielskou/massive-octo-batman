@@ -1,0 +1,17 @@
+bin
+include
+lib
+src
+share
+__pycache__
+staticfiles
+local_settings.py
+db.sqlite3
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+runtime.txt
+pyvenv.cfg
+Procfile
